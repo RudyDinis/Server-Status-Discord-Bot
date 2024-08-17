@@ -91,7 +91,3 @@ Once the bot is running, it will display real-time information about the Minecra
 ## Contributing
 
 Contributions are welcome! Please create an issue or a pull request to suggest changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
