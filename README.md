@@ -78,11 +78,11 @@ A Discord bot that displays real-time information about any Minecraft server (Ja
 
 1. **Embed**
 
-[Server Status Embed](./example/embed.png)
+![Server Status Embed](./example/embed.png)
 
 2. **widget**
 
-[Server Status widget](./example/widget.png)
+![Server Status widget](./example/widget.png)
 
 ## Usage
 
