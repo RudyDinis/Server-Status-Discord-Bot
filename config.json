@@ -1,0 +1,18 @@
+{
+    "token": "yourbottoken",
+    "clientId": "yourbotid",
+    "server_ip": "play.hypixel.net",
+    "edition": "java or bedrock",
+    "widget": {
+        "channel_id": "id of your widget channel",
+        "dark" : "true or false"
+    },
+    "embed": {
+        "channel_id": "id of your embed channel",
+        "color" : "0x0099FF",
+        "title" : "Hypixel",
+        "title_url" : "https://hypixel.net",
+        "logo" : "./img/logo.png",
+        "image" : "./img/image.gif"
+    }
+}
