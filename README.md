@@ -23,7 +23,7 @@ A Discord bot that displays real-time information about any Minecraft server (Ja
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/minecraft-discord-bot.git
+    git clone https://github.com/RudyDinis/minecraft-discord-bot.git
     cd minecraft-discord-bot
     ```
 
